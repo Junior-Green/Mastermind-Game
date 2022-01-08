@@ -1,5 +1,5 @@
 # Mastermind Game
- Interactive GUI for Mastermind board game using JavaFX
+ Interactive GUI for Mastermind board game using JavaFX where you try to find the hidden 4 color combination in a series of limited attempts. For each attempt made you will be notified for how much colors you guessed correctly, and how much correct colors guessed, are in the right posititons. Use the left button on the mouse to rotate through the cycle of colors.
 
 # Instructions/Notes
 
